@@ -41,18 +41,18 @@ https://opensource.com/article/18/1/step-step-guide-git
 
 ## Part 2: Glossary to include these terms in a bulleted list.
 
-1. **Branch**: The List of all the braches in the repository.
-2. **Clone**: is used to make a copy of a repository or a branch within a repository.
-3. **Commit**: Create a new commit from the changes in the staging area with a meassge in the commit.
-4. **Fetch**: Fetch remote changes but do not update tracking branches.
-5. **GIT**: Git is a DevOps tool used for source code management.
-6. **Github**:  is a code hosting platform for version control and collaboration.
-7. **Merge**:Join the specified [by name] branch to your current branch (the one you're on right now).
-8. **Merge Conflict**: happen when you merge branches that have competing commits
-9. **Push**: updates the remote branch with local commits
-10. **Pull**: let you tell others about changes you've pushed to a branch in a repository on GitHub.
-11. **Remote**: A remote URL is Git's fancy way of saying "the place where your code is stored.
-12. **Repository**: contains all of your project's files and each file's revision history
+- **Branch**: The List of all the braches in the repository.
+- **Clone**: is used to make a copy of a repository or a branch within a repository.
+- **Commit**: Create a new commit from the changes in the staging area with a meassge in the commit.
+- **Fetch**: Fetch remote changes but do not update tracking branches.
+- **GIT**: Git is a DevOps tool used for source code management.
+- **Github**:  is a code hosting platform for version control and collaboration.
+- **Merge**:Join the specified [by name] branch to your current branch (the one you're on right now).
+- **Merge Conflict**: happen when you merge branches that have competing commits
+- **Push**: updates the remote branch with local commits
+- **Pull**: let you tell others about changes you've pushed to a branch in a repository on GitHub.
+- **Remote**: A remote URL is Git's fancy way of saying "the place where your code is stored.
+- **Repository**: contains all of your project's files and each file's revision history
 
 
 
